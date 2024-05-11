@@ -1,0 +1,4 @@
+repository "Game Prog@the32069@cloud"
+  path "/"
+    br "/main"
+    co "/main"

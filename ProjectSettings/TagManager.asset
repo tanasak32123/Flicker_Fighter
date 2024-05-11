@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - PreGameMenu
+  - UI
+  - EndGame
+  - Ability
+  - Undefined
+  - Chain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - AbilityIndicator
+  - Water
+  - UI
+  - Ability
+  - SolidObject
+  - BurnSurface
+  - Player
+  - Background
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 910243721
+    locked: 0
+  - name: Floor
+    uniqueID: 510747035
+    locked: 0
+  - name: Foreground
+    uniqueID: 3974347609
+    locked: 0
+  - name: AbilityIndicator
+    uniqueID: 28496821
+    locked: 0
+  - name: Character
+    uniqueID: 3403397349
+    locked: 0
+  - name: AbilityCast
+    uniqueID: 4216125575
+    locked: 0
+  - name: Player2
+    uniqueID: 1339090607
+    locked: 0
+  - name: UI
+    uniqueID: 3311785867
+    locked: 0
+  - name: Top Layer
+    uniqueID: 3258763169
+    locked: 0
